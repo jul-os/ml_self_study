@@ -13,3 +13,4 @@ Here is a list of what I am planning to look through at the moment:
 - NLP interactive course https://lena-voita.github.io/nlp_course.html#whats_inside_lectures
 - Standford NLP https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z and https://web.stanford.edu/class/cs224n/index.html#schedule there are also some readings
 - Standford CV https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
+- CV https://stepik.org/course/50352/syllabus?auth=login exercises
