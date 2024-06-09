@@ -14,3 +14,9 @@ Here is a list of what I am planning to look through at the moment:
 - Standford NLP https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z and https://web.stanford.edu/class/cs224n/index.html#schedule there are also some readings
 - Standford CV https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 - CV https://stepik.org/course/50352/syllabus?auth=login exercises
+
+
+
+Прочитано: 2/5 глав
+
+<progress value="2" max="5"></progress>
