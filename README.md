@@ -19,7 +19,5 @@ Here is a list of what I am planning to look through at the moment:
 
 ## Прогресс чтения учебника
 
-  <div style="width: 40%; background-color: green; padding: 5px; color: white;">
-    2/5 глав
-  </div>
+![Прогресс чтения](https://img.shields.io/badge/Прогресс-2/5-4caf50)
 
