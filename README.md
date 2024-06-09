@@ -4,7 +4,7 @@ In this repository I will post code that I'll write as I teach myself Machine Le
 
 Here is a list of what I am planning to look through at the moment:
 
-- https://education.yandex.ru/handbook/ml textbook, has a few problems to train, but not on all themes
+- https://education.yandex.ru/handbook/ml textbook, has a few problems to train, but not on all themes ![Глав](https://img.shields.io/badge/Прогресс-1/66-4caf50), ![Задач](https://img.shields.io/badge/Прогресс-0/27-4caf50)
 - МФТИ DL course https://github.com/girafe-ai/ml-course Lectures (video), seminars, assignments, and labs
 - MIT Deep Learning Textbook https://www.deeplearningbook.org/  Lectures, exercises
 - Kaggle. Competitions, exercises. Has a few courses about data preparation, timeseries, and Game AI
@@ -14,10 +14,4 @@ Here is a list of what I am planning to look through at the moment:
 - Standford NLP https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z and https://web.stanford.edu/class/cs224n/index.html#schedule there are also some readings
 - Standford CV https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 - CV https://stepik.org/course/50352/syllabus?auth=login exercises
-
-
-
-## Прогресс чтения учебника
-
-![Прогресс чтения](https://img.shields.io/badge/Прогресс-1/45-4caf50)
 
