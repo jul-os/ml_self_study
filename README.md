@@ -19,5 +19,5 @@ Here is a list of what I am planning to look through at the moment:
 
 ## Прогресс чтения учебника
 
-![Прогресс чтения](https://img.shields.io/badge/Прогресс-2/5-4caf50)
+![Прогресс чтения](https://img.shields.io/badge/Прогресс-1/45-4caf50)
 
