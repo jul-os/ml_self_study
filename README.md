@@ -17,6 +17,11 @@ Here is a list of what I am planning to look through at the moment:
 
 
 
-Прочитано: 2/5 глав
+## Прогресс чтения учебника
 
-<progress value="2" max="5"></progress>
+<div style="width: 100%; background-color: lightgray;">
+  <div style="width: 40%; background-color: green; padding: 5px; color: white;">
+    2/5 глав
+  </div>
+</div>
+
