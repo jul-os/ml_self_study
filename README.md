@@ -6,7 +6,7 @@ Here is a list of what I am planning to look through at the moment:
 
 - https://education.yandex.ru/handbook/ml textbook, has a few problems to train, but not on all themes ![Глав](https://img.shields.io/badge/Chapters-1/66-4caf50), ![Задач](https://img.shields.io/badge/Problems-0/27-4caf50)
 - МФТИ DL course https://github.com/girafe-ai/ml-course Lectures (video), seminars, assignments, and labs
-- MIT Deep Learning Textbook https://www.deeplearningbook.org/  Lectures, exercises ![Глав](https://img.shields.io/badge/Chapters-0/20-4caf50)
+- MIT Deep Learning Textbook https://www.deeplearningbook.org/  Lectures, exercises ![Глав](https://img.shields.io/badge/Chapters-1/20-4caf50)
 - Kaggle. Competitions, exercises. Has a few courses about data preparation, timeseries, and Game AI
 - Deep Learning video lectures that people recommended https://www.youtube.com/@sim0nsays/playlists
 
